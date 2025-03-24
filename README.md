@@ -9,11 +9,6 @@ Bu proje, temel aritmetik işlemleri, değişken atamaları ve kullanıcıdan ge
 ### `gcc y.tab.c lex.yy.c -o calculator -lm`
 ### `./calculator`
 
-Program Özellikleri:
-Aritmetik İşlemler
-Değişken Atamaları
-Sıfıra Bölme
-Hatalı İfadeler
-Çıkış Komutu
+Program Özellikleri: Aritmetik İşlemler, Değişken Atamaları, Sıfıra Bölme, Hatalı İfadeler, Çıkış Komutu
 
 
